@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.12.1",
+    "jasmine": "^2.4.1",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-jasmine": "^0.3.8",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-requirejs": "^0.2.6",
+    "karma-webpack": "^1.7.0",
+    "lodash": "^4.2.0",
+    "phantomjs-prebuilt": "^2.1.6",
+    "typescript": "^1.8.7",
+    "vinyl-named": "^1.1.0",
+    "webpack": "^1.12.14",
+    "webpack-stream": "^3.1.0"
+  },
+  "dependencies": {
+    "ts-loader": "^0.8.1"
+  }
+}
